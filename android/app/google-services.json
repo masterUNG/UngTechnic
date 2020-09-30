@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "642755481050",
+    "firebase_url": "https://ungtechnic.firebaseio.com",
+    "project_id": "ungtechnic",
+    "storage_bucket": "ungtechnic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642755481050:android:13ac3227bc14abb37ec4e3",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.ungteachnic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642755481050-b53b2gdo1k6ct34c7dk70dqajoqnvmhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_M_6cKKiOfrOyGdC8nKkq-8j7aHjTcGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642755481050-b53b2gdo1k6ct34c7dk70dqajoqnvmhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
